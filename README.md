@@ -1,5 +1,5 @@
 # ipinfo
-Module to fetch information about user using IP address<br>*Python wrapper for `ipinfo.io` API*
+Module to fetch information about user using IP address<br>*Python wrapper for [ipinfo.io](ipinfo.io) API*
 
 ## Installing
 ```
